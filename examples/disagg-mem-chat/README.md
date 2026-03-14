@@ -1,4 +1,4 @@
-# COA Project 9 — Track C: Disaggregated Memory Chat
+# Computer Architecture Project 9 — Track C: Disaggregated Memory Chat
 ### Modified LLM Inference Pipeline with Explicit Memory Placement
 
 Built on [llama.cpp](https://github.com/ggml-org/llama.cpp).
